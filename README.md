@@ -18,7 +18,7 @@ First go to [aimware.net](https://aimware.net/forum/index.php), login and extrac
 If you have the cookie simply copy that.
 	Copy python script or download compiled version.
 Now <b>[create shortcut of script or exe file](https://i.imgur.com/aGwk2jj.png) </b>
-Then go into [properties](https://i.imgur.com/Um0TkwV.png) add a space after last quote and paste value of the cookie. It should look like [THIS](https://i.imgur.com/KBXoRZS.png)
+Then go into [properties](https://i.imgur.com/Um0TkwV.png) add a space after last quote in **TARGET** and paste value of the cookie. It should look like [THIS](https://i.imgur.com/KBXoRZS.png)
 
 If you did everything good it should download loader!
 ![](https://i.imgur.com/2g7xD4o.gif)
