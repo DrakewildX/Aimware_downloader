@@ -19,5 +19,5 @@ After getting the cookie just run the script and select >1< option.
 
 
 >Added simple gui
->Loader opens after download
+Loader opens after download
 
