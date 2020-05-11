@@ -5,7 +5,7 @@ Simple python script that allows you to get aimware loader pretty fast.
 
 # REQUIREMENTS
 
-Script was made in **python 3** but you can get *compiled* version [HERE](google.com)
+Script was made in **python 3** but you can get *compiled* version [HERE](https://github.com/DrakewildX/Aimware_downloader/releases/tag/1.0.0)
 >Python libs: **requests** 
 
 You need to have **VIP ACCESS** (*subscription*) on aimware forum.
