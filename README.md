@@ -1,6 +1,6 @@
 # AIMWARE LOADER DOWNLOADER
 
-Simple python script that allows you to get aimware loader. 
+Simple python script that allows you to get aimware loader pretty fast.
 
 
 # REQUIREMENTS
