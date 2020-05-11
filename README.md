@@ -12,7 +12,7 @@ You need to have **VIP ACCESS** (*subscription*) on aimware forum.
 
 ## How to get it to work?
 
-First go to [aimware.net](https://aimware.net/forum/index.php), login and extract *mybbuser* cookie with [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+First go to [aimware.net](https://aimware.net/forum/index.php), login and extract *mybbuser* cookie using [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 >It should look like that: [IMAGE](https://i.imgur.com/YJEOUpv.png)
 
 If you have the cookie simply copy that.
