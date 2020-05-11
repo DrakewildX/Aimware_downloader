@@ -18,6 +18,8 @@ First go to [aimware.net](https://aimware.net/forum/index.php), login and extrac
 After getting the cookie just run the script and select >1< option.
 
 
+
+# Update 2.0.0:
 >Added simple gui
 
 >Loader opens after download
